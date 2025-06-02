@@ -270,9 +270,6 @@ pip install -r requirements-dev.txt
 - Web-based interface
 - Integration with documentation platforms
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -284,13 +281,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-doc-analyzer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-doc-analyzer/discussions)
-- **Email**: support@example.com
 
-## 🗺️ Roadmap
+- **Email**: simantpra@gmail.com
 
-### Version 2.0 (Planned)
+## 🗺️ Future Roadmap
+
+### Version 2.0
 - [ ] Web-based user interface
 - [ ] Batch processing for multiple URLs
 - [ ] Integration with popular documentation platforms
@@ -298,7 +294,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Team collaboration features
 - [ ] Advanced AI models integration
 
-### Version 1.5 (Next Release)
+### Version 1.5 
 - [ ] PDF document support
 - [ ] Custom report templates
 - [ ] Automated content revision
